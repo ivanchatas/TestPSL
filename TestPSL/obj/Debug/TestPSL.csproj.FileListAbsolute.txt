@@ -1,0 +1,11 @@
+C:\Users\1020717662\documents\visual studio 2015\Projects\TestPSL\TestPSL\bin\Debug\TestPSL.exe.config
+C:\Users\1020717662\documents\visual studio 2015\Projects\TestPSL\TestPSL\bin\Debug\TestPSL.exe
+C:\Users\1020717662\documents\visual studio 2015\Projects\TestPSL\TestPSL\bin\Debug\TestPSL.pdb
+C:\Users\1020717662\documents\visual studio 2015\Projects\TestPSL\TestPSL\obj\Debug\TestPSL.exe
+C:\Users\1020717662\documents\visual studio 2015\Projects\TestPSL\TestPSL\obj\Debug\TestPSL.pdb
+E:\Libre Expresion\Downloads\TestPSL\TestPSL\bin\Debug\TestPSL.exe.config
+E:\Libre Expresion\Downloads\TestPSL\TestPSL\obj\Debug\TestPSL.exe
+E:\Libre Expresion\Downloads\TestPSL\TestPSL\obj\Debug\TestPSL.pdb
+E:\Libre Expresion\Downloads\TestPSL\TestPSL\bin\Debug\TestPSL.exe
+E:\Libre Expresion\Downloads\TestPSL\TestPSL\bin\Debug\TestPSL.pdb
+E:\Libre Expresion\Downloads\TestPSL\TestPSL\obj\Debug\TestPSL.csprojResolveAssemblyReference.cache
